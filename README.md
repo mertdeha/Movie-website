@@ -1,1 +1,5 @@
-# Movie-website
+# Movie-Website
+
+# Preview
+
+![](./screen-gif.gif)
